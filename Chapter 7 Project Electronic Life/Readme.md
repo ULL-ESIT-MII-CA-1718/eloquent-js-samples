@@ -1,4 +1,4 @@
-[See it working](https://ull-esit-mii-ca-1718.github.io/eloquent-js-samples/tree/master/Chapter%207%20Project%20Electronic%20Life)
+[See it working](https://ull-esit-mii-ca-1718.github.io/eloquent-js-samples/Chapter%207%20Project%20Electronic%20Life)
 
 1. For starting project you need to open index.html file, at this file you can see game with different animals and objects
 
